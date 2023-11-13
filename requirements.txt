@@ -1,5 +1,5 @@
 cffi==1.15.0
-JACK-Client==0.5.3
+JACK-Client==0.5.4
 pycparser==2.21
-pygame==2.1.2
+pygame==2.5.2
 git+https://github.com/alansartorio/PyGame-State-Management.git@main#egg=pygamestate
